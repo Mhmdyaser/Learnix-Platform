@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAs7uhfpauE02OUiz9fPQwMAAAAAACAAAAAAAQZgAAAAEAACAAAAB4Aylifw66FMNWWJOnq56aRqZplzzrCVj+cxR+pseVqAAAAAAOgAAAAAIAACAAAAA+vjrKJoyc7V5ICUnuXEQ1W3wYtVOmqVAsYwIkNrHbTyAAAAAWqfah+DQFDCJ6/iVcVIBbXRh/FMtiVrhUeIv2VXeNLkAAAAB4/IKivzXZQIwN6gYcQZMmTAXJXxxij01zIXzF+lftamECmzuspHCsLUAQi5bIAtrjoCe3b/RttfFd8d8jsD3e</EncryptedPassword>
+    <History>True|2025-12-13T20:03:52.9621986Z||;True|2025-12-13T20:39:42.8737379+02:00||;True|2025-11-30T21:33:03.0367678+02:00||;True|2025-11-30T21:29:34.4021861+02:00||;True|2025-11-30T17:14:39.4837536+02:00||;True|2025-11-30T17:00:52.8184799+02:00||;True|2025-11-30T16:40:27.5580639+02:00||;True|2025-11-30T16:32:08.5953647+02:00||;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="DefaultConnection">
+      <Value>Server=db33904.databaseasp.net%3b Database=db33904%3b User Id=db33904%3b Password=gS-5K#4f_6xA%3b Encrypt=False%3b MultipleActiveResultSets=True%3b</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+</Project>

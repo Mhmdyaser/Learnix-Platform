@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Project\\Learnix(FV)\\Learnix\\Learnix(Code)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{14D5E432-D046-4EE0-AE50-0E0A35FF706D}|Learnix.csproj|d:\\project\\learnix(fv)\\learnix\\learnix(code)\\services\\implementations\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14D5E432-D046-4EE0-AE50-0E0A35FF706D}|Learnix.csproj|solutionrelative:services\\implementations\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14D5E432-D046-4EE0-AE50-0E0A35FF706D}|Learnix.csproj|d:\\project\\learnix(fv)\\learnix\\learnix(code)\\areas\\student\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{14D5E432-D046-4EE0-AE50-0E0A35FF706D}|Learnix.csproj|solutionrelative:areas\\student\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14D5E432-D046-4EE0-AE50-0E0A35FF706D}|Learnix.csproj|d:\\project\\learnix(fv)\\learnix\\learnix(code)\\services\\interfaces\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14D5E432-D046-4EE0-AE50-0E0A35FF706D}|Learnix.csproj|solutionrelative:services\\interfaces\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14D5E432-D046-4EE0-AE50-0E0A35FF706D}|Learnix.csproj|d:\\project\\learnix(fv)\\learnix\\learnix(code)\\repoisatories\\interfaces\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14D5E432-D046-4EE0-AE50-0E0A35FF706D}|Learnix.csproj|solutionrelative:repoisatories\\interfaces\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14D5E432-D046-4EE0-AE50-0E0A35FF706D}|Learnix.csproj|d:\\project\\learnix(fv)\\learnix\\learnix(code)\\repoisatories\\implementations\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14D5E432-D046-4EE0-AE50-0E0A35FF706D}|Learnix.csproj|solutionrelative:repoisatories\\implementations\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 144,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IStudentService.cs",
+              "DocumentMoniker": "D:\\Project\\Learnix(FV)\\Learnix\\Learnix(Code)\\Services\\Interfaces\\IStudentService.cs",
+              "RelativeDocumentMoniker": "Services\\Interfaces\\IStudentService.cs",
+              "ToolTip": "D:\\Project\\Learnix(FV)\\Learnix\\Learnix(Code)\\Services\\Interfaces\\IStudentService.cs*",
+              "RelativeToolTip": "Services\\Interfaces\\IStudentService.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T13:50:24.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IStudentRepository.cs",
+              "DocumentMoniker": "D:\\Project\\Learnix(FV)\\Learnix\\Learnix(Code)\\Repoisatories\\Interfaces\\IStudentRepository.cs",
+              "RelativeDocumentMoniker": "Repoisatories\\Interfaces\\IStudentRepository.cs",
+              "ToolTip": "D:\\Project\\Learnix(FV)\\Learnix\\Learnix(Code)\\Repoisatories\\Interfaces\\IStudentRepository.cs*",
+              "RelativeToolTip": "Repoisatories\\Interfaces\\IStudentRepository.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T13:49:48.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Project\\Learnix(FV)\\Learnix\\Learnix(Code)\\Areas\\Student\\Views\\Student\\Index.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Student\\Views\\Student\\Index.cshtml",
+              "ToolTip": "D:\\Project\\Learnix(FV)\\Learnix\\Learnix(Code)\\Areas\\Student\\Views\\Student\\Index.cshtml",
+              "RelativeToolTip": "Areas\\Student\\Views\\Student\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-13T20:10:44.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "D:\\Project\\Learnix(FV)\\Learnix\\Learnix(Code)\\Services\\Implementations\\StudentService.cs",
+              "RelativeDocumentMoniker": "Services\\Implementations\\StudentService.cs",
+              "ToolTip": "D:\\Project\\Learnix(FV)\\Learnix\\Learnix(Code)\\Services\\Implementations\\StudentService.cs",
+              "RelativeToolTip": "Services\\Implementations\\StudentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T20:08:14.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StudentRepository.cs",
+              "DocumentMoniker": "D:\\Project\\Learnix(FV)\\Learnix\\Learnix(Code)\\Repoisatories\\Implementations\\StudentRepository.cs",
+              "RelativeDocumentMoniker": "Repoisatories\\Implementations\\StudentRepository.cs",
+              "ToolTip": "D:\\Project\\Learnix(FV)\\Learnix\\Learnix(Code)\\Repoisatories\\Implementations\\StudentRepository.cs",
+              "RelativeToolTip": "Repoisatories\\Implementations\\StudentRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAOAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T18:46:45.066Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
